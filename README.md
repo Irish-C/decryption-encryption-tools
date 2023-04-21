@@ -13,7 +13,7 @@ See sample output:
 Enter a string to decrypt: th& q!#ck br+wn f+x j!mps +v&r th& l*zy d+g. 
 The Plain Text: the quick brown fox jumps over the lazy dog. 
 
-Installation
+# Installation
 To run the program, you'll need to have [Python 3](https://www.python.org/downloads/) installed on your computer.
 
 **Note: I used [VS Code](https://code.visualstudio.com/download) to create and run the program.** 
